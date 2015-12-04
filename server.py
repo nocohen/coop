@@ -7,7 +7,7 @@ import thread
 import pytz
 import time
 import sys
-import Adafruit_DHT
+#import Adafruit_DHT
 import glob
 import datetime
 import RPi.GPIO as GPIO
